@@ -10,8 +10,8 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile"
     "customurlscheme" : "moodlemobile",
-    "presets" : {"url": "http://chaitanyalifeacademy.org/login/index.php", "username": ""},
-    "siteurl": "http://chaitanyalifeacademy.org/login/index.php",
+    "presets" : {"url": "http://chaitanyalifeacademy.org"},
+    "siteurl": "http://chaitanyalifeacademy.org",
     "skipssoconfirmation" : "false",
     "forcedefaultlanguage" : "false",
     "sync_ws_on" : true,
