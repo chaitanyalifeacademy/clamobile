@@ -1,5 +1,5 @@
 {
-    "app_id" : "chaitanyalifeacademy.org",
+    "app_id" : "com.chaitanyalifeacademy.org",
     "appname": "Chaitanyalifeacademy Moodle Mobile",
     "desktopappname": "Chaitanyalifeacademy Desktop",
     "versioncode" : "2020",
@@ -10,8 +10,8 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile"
     "customurlscheme" : "moodlemobile",
-    "siteurl": "http://chaitanyalifeacademy.org",
-    "presets" : {"url": "http://chaitanyalifeacademy.org", "username": ""},
+    "presets" : {"url": "http://chaitanyalifeacademy.org/login/index.php", "username": ""},
+    "siteurl": "http://chaitanyalifeacademy.org/login/index.php",
     "skipssoconfirmation" : "false",
     "forcedefaultlanguage" : "false",
     "sync_ws_on" : true,
